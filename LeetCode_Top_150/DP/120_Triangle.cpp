@@ -1,6 +1,11 @@
-#include <vector>
-#include <climits>  // for INT_MAX
+#include <bits/stdc++.h>
 using namespace std;
+
+
+
+//#include <vector>
+//#include <climits>  // for INT_MAX
+//using namespace std;
 
 
 /*
