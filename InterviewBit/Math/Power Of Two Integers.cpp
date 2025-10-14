@@ -2,7 +2,7 @@
 using namespace std;
 
 class Solution {
-    int isPower(int A,int B);
+    int isPower(int A );
 };
 
 
